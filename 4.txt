@@ -1,0 +1,6 @@
+Jest wiêksza
+Pierwszy plik.
+I coœ jeszcze.
+Drugi plik.
+I coœ jeszcze.
+['ex05.py', '1.txt', '2.txt', '3.txt']
